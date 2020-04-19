@@ -4,19 +4,19 @@ This rep conatins NavidK's config files so that it becomes easier to set the con
 #zsh:
 1. Make sure you are updated: 
 ```
-sudo apt-get update
+$ sudo apt-get update
 ```
 2. Make sure you have Git and zsh installed on you machine:
 ```
-sudo apt-get install zsh git
+$ sudo apt-get install zsh git
 ```
 3. Look up your zsh path: (/usr/bin/zsh)
 ```
-which zsh
+$ which zsh
 ```
 4. Change your shell to zsh (/usr/bin/zsh)
 ```
-chsh -s /usr/bin/zsh
+$ chsh -s /usr/bin/zsh
 ``` 
 5. Go to [Oh My Zsh](https://ohmyz.sh/):
 ```
