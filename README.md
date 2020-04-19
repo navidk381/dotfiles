@@ -28,8 +28,13 @@ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 
 7. Replace the .zashrc file simply by the .zashrc you have under ```$HOME/.zshrc```
 
+
 8. Install the font "Inconsolata for Powerline.otf"
 
-9. Change the font to "Inconsolata for Powerline" in the Terminal preferances 
+
+9. Change the font to "Inconsolata for Powerline" in the Terminal preferances
+
+
+10. Log out and log in. 
 
 
