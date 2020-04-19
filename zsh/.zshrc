@@ -98,6 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /opt/ros/kinetic/setup.zsh
-source ~/catkin_ws/devel/setup.zsh
-source ~/charlottetown/dsl/devel/setup.zsh
-source ~/charlottetown/extras/devel/setup.zsh
+#source ~/catkin_ws/devel/setup.zsh
+#source ~/charlottetown/dsl/devel/setup.zsh
+#source ~/charlottetown/extras/devel/setup.zsh
