@@ -18,12 +18,12 @@ which zsh
 ```
 chsh -s /usr/bin/zsh
 ``` 
-5. Go to [Oh My Zsh](https://ohmyz.sh/)
+5. Go to [Oh My Zsh](https://ohmyz.sh/) or clone this repo:
 ```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-6. Clone this repo:
+
 
 7. Replace the .zashrc file simply by the .zashrc you have under ```$HOME/.zshrc```
 
