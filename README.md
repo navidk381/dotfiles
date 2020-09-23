@@ -1,3 +1,4 @@
+
 # dotfiles
 This rep conatins NavidK's config files so that it becomes easier to set the configurations for zsh when you are using different machines. 
 
@@ -22,19 +23,32 @@ $ chsh -s /usr/bin/zsh
 ```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+6. Change directory if you want:
+```
+$ mkdir ~/myrepo & cd ~/myrepo	
+```
+7. Clone this repo `dotfiles`:
+```
+$ git clone https://github.com/navidk381/dotfiles.git
+```
+8. Replace the .zashrc file you have under ```$HOME/.zshrc``` simply by my .zashrc 
+```
+$ cp zsh/.zshrc ~
+```
+Features:
+ - [ ] A nice theme
+ - [ ] Git plugin is available
+ - [ ] `zshconfig` opens ~/.zshrc
+ - [ ] `execbash` switches to bash
+ - [ ] ROS *melodic* is sourced
 
-6. Clone this repo `dotfiles`:
+9. Install the font `Inconsolata for Powerline.otf`
+		Just open it and click Install.  
 
+10. Change the font to `Inconsolata for Powerline` (`bold`) in the Terminal preferences
+		Open up a terminal:`Edit` -> `Preferences` -> `Profiles` -> `Custom Font`
 
-7. Replace the .zashrc file simply by the .zashrc you have under ```$HOME/.zshrc```
+11. Log out and log in. 
 
-
-8. Install the font `Inconsolata for Powerline.otf`
-
-
-9. Change the font to `Inconsolata for Powerline` (`bold`) in the Terminal preferances
-`Terminal` -> `prefernces` -> `profiles` -> `edit`
-
-10. Log out and log in. 
 
 
