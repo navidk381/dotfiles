@@ -95,9 +95,10 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
+alias zshconfig="mate ~/.zshrc"
+alias execbash="exec ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /opt/ros/kinetic/setup.zsh
+source /opt/ros/melodic/setup.zsh"
 #source ~/catkin_ws/devel/setup.zsh
 #source ~/charlottetown/dsl/devel/setup.zsh
 #source ~/charlottetown/extras/devel/setup.zsh
