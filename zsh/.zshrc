@@ -98,7 +98,7 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="gedit ~/.zshrc"
 alias execbash="exec ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /opt/ros/melodic/setup.zsh"
+source /opt/ros/melodic/setup.zsh
 #source ~/catkin_ws/devel/setup.zsh
 #source ~/charlottetown/dsl/devel/setup.zsh
 #source ~/charlottetown/extras/devel/setup.zsh
