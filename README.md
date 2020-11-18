@@ -2,6 +2,11 @@
 # dotfiles
 This rep conatins NavidK's config files so that it becomes easier to set the configurations for zsh when you are using different machines. 
 
+## ROS Package Installer:
+Before making any ros packages run the command below in the workspace (e.g, dsl and extras)
+```
+$ rosdep install --from-paths src --ignore-src --rosdistro melodic -y
+```
 ## zsh:
 1. Make sure you are updated: 
 ```
