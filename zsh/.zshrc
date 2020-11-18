@@ -96,7 +96,10 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 alias zshconfig="gedit ~/.zshrc"
-alias execbash="exec ~/.zshrc"
+alias execbash="exec bash"
+alias claer="clear"
+alias sphinxinit="sudo systemctl start firmwared.service"
+alias sphinxdev="~/myrepo/dotfiles/tmux/sphinx-dev.sh"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /opt/ros/melodic/setup.zsh
 #source ~/catkin_ws/devel/setup.zsh
